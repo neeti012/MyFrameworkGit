@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="62181" started-at="2020-05-25T08:42:22Z" finished-at="2020-05-25T08:43:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="62181" started-at="2020-05-25T08:42:22Z" finished-at="2020-05-25T08:43:24Z">
+      <class name="com.MyInnovation.Tests.VerifyChatbotUtterances">
+        <test-method status="PASS" signature="SuiteSetup()[pri:0, instance:com.MyInnovation.Tests.VerifyChatbotUtterances@cb5822]" name="SuiteSetup" is-config="true" duration-ms="616" started-at="2020-05-25T14:12:21Z" finished-at="2020-05-25T14:12:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SuiteSetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.MyInnovation.Tests.VerifyChatbotUtterances@cb5822]" name="setup" is-config="true" duration-ms="12754" started-at="2020-05-25T14:12:22Z" finished-at="2020-05-25T14:12:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateChatbotResponse()[pri:0, instance:com.MyInnovation.Tests.VerifyChatbotUtterances@cb5822]" name="validateChatbotResponse" duration-ms="48251" started-at="2020-05-25T14:12:35Z" finished-at="2020-05-25T14:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateChatbotResponse -->
+        <test-method status="PASS" signature="quitbrowser()[pri:0, instance:com.MyInnovation.Tests.VerifyChatbotUtterances@cb5822]" name="quitbrowser" is-config="true" duration-ms="1162" started-at="2020-05-25T14:13:23Z" finished-at="2020-05-25T14:13:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitbrowser -->
+      </class> <!-- com.MyInnovation.Tests.VerifyChatbotUtterances -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
