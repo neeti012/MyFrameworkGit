@@ -30,6 +30,8 @@ public class BaseClass {
 	public ExtentReports report;
 	public ExtentTest logger;
 	public ElementFactory ef;
+//comment
+	
 	
 
 	@BeforeSuite
